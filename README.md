@@ -2,12 +2,10 @@
 
 # Poster
 
-# Poster
+# Deskripsi Projek UnesaShoes
 
-#Deskripsi Projek UnesaShoes
+# Fitur Utama
 
-#Fitur Utama
+# Profil Developer
 
-#Profil Developer
-
-#View Application
+# View Application
