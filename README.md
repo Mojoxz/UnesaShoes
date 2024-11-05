@@ -26,11 +26,12 @@ UnesaShoes adalah aplikasi belanja online yang dirancang untuk mempermudah pengg
 
 # Profil Developer
 
-![image](https://github.com/user-attachments/assets/c76879f6-1cf1-4f69-9ef7-c7f887c025ac) ![image](https://github.com/user-attachments/assets/288d2600-d9d4-41e3-85bc-a6cd2a2ca8b4)
-                                                ![image](https://github.com/user-attachments/assets/f0fb1c34-d69f-4b37-b09c-95b730d02575)
 
-
-
+1. FIRMANDHANI SETYO T    (23050974029) - Pembuat code
+2. ANDI IQMAH NABILA      (23050974021) - Mendisain Aplikasi
+3. DAFFA BAYU FADHILA     (23050974031) - Data analyst
+   
+Project aplikasi UnesaShoes ini saya buat untuk memenuhi tugas dari mata kuliah Pemrograman Mobile pada Prodi S1 Pendidikan Teknologi Informasi [Pendidikan Teknologi Informasi] (https://pendidikan-ti.ft.unesa.ac.id/)   
 
 # View Aplikasi
 
