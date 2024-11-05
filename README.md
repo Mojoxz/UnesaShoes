@@ -25,10 +25,8 @@ UnesaShoes adalah aplikasi belanja online yang dirancang untuk mempermudah pengg
 6. Dengan UnesaShoes, pengguna mendapatkan pengalaman belanja sepatu yang lengkap dan aman dengan filter yang mempermudah penemuan produk sesuai kebutuhan dan preferensi.
 
 # Profil Developer
-
-![1730770077032](https://github.com/user-attachments/assets/225942a4-6475-4fc9-9f90-f144a14e9287)   ![1730770147512](https://github.com/user-attachments/assets/f70526f1-36d3-4f42-a36b-391ae537d9c2)
+![1730770077032](https://github.com/user-attachments/assets/64ff5a06-0980-4f51-a463-3e753b55abd8)    ![1730770147512](https://github.com/user-attachments/assets/72adc844-e1b3-439f-a76a-cb9452bfb43d)
                                         ![1730770228466](https://github.com/user-attachments/assets/2033ab65-2c44-49a4-a568-9ebf9749af22)
-
 
 1. FIRMANDHANI SETYO T    (23050974029) - Pembuat code
 2. ANDI IQMAH NABILA      (23050974021) - Mendisain Aplikasi
