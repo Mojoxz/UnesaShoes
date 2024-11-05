@@ -31,7 +31,8 @@ UnesaShoes adalah aplikasi belanja online yang dirancang untuk mempermudah pengg
 2. ANDI IQMAH NABILA      (23050974021) - Mendisain Aplikasi
 3. DAFFA BAYU FADHILA     (23050974031) - Data analyst
    
-Project aplikasi UnesaShoes ini saya buat untuk memenuhi tugas dari mata kuliah Pemrograman Mobile pada Prodi S1 Pendidikan Teknologi Informasi [Pendidikan Teknologi Informasi] (https://pendidikan-ti.ft.unesa.ac.id/)   
+Project aplikasi UnesaShoes ini saya buat untuk memenuhi tugas dari mata kuliah Pemrograman Mobile pada Prodi S1 Pendidikan Teknologi Informasi 
+[Pendidikan Teknologi Informasi] (https://pendidikan-ti.ft.unesa.ac.id/)   
 
 # View Aplikasi
 
