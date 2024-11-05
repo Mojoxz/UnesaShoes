@@ -27,9 +27,7 @@ UnesaShoes adalah aplikasi belanja online yang dirancang untuk mempermudah pengg
 # Profil Developer
 
 ![1730770077032](https://github.com/user-attachments/assets/225942a4-6475-4fc9-9f90-f144a14e9287)   ![1730770147512](https://github.com/user-attachments/assets/f70526f1-36d3-4f42-a36b-391ae537d9c2)
-                                        ![1730770228466](https://github.com/user-attachments/assets/04cd55dd-2e3f-4c4d-9549-a3143d33c2a6)
-
-
+                                        ![1730770228466](https://github.com/user-attachments/assets/2033ab65-2c44-49a4-a568-9ebf9749af22)
 
 
 1. FIRMANDHANI SETYO T    (23050974029) - Pembuat code
