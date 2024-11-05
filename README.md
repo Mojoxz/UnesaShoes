@@ -13,11 +13,10 @@ UnesaShoes adalah aplikasi belanja online yang dirancang untuk mempermudah pengg
 2. Katalog Produk Terintegrasi: Aplikasi menampilkan katalog produk yang ditambahkan melalui UnesaShoesAdmin. Pengguna dapat melihat berbagai produk dengan informasi lengkap, seperti harga, deskripsi, kategori, dan gambar.
 
 3. Pencarian Produk Berdasarkan Kategori, Brand, dan Rentang Harga: Pengguna dapat memfilter produk berdasarkan:
-
-Kategori: Menampilkan produk yang spesifik sesuai dengan jenis yang dicari (misalnya, sneakers, boots).
-Brand: Pengguna dapat memilih sepatu dari merek tertentu.
-Rentang Harga: Memudahkan pengguna untuk menyesuaikan pilihan produk sesuai anggaran mereka, dengan opsi filter dari harga terendah hingga tertinggi.
-Keranjang Belanja: Pengguna dapat menambahkan produk ke dalam keranjang belanja dan mengelola jumlahnya. Fitur ini memungkinkan pengguna untuk mengumpulkan produk favorit sebelum melakukan pembayaran.
+    - Kategori: Menampilkan produk yang spesifik sesuai dengan jenis yang dicari (misalnya, sneakers, boots).
+    - Brand: Pengguna dapat memilih sepatu dari merek tertentu.
+    - Rentang Harga: Memudahkan pengguna untuk menyesuaikan pilihan produk sesuai anggaran mereka, dengan opsi filter dari harga terendah hingga tertinggi.
+    - Keranjang Belanja: Pengguna dapat menambahkan produk ke dalam keranjang belanja dan mengelola jumlahnya. Fitur ini memungkinkan pengguna untuk mengumpulkan produk favorit sebelum melakukan pembayaran.
 
 4. Pembayaran Aman dengan Stripe: Aplikasi menyediakan opsi pembayaran aman melalui Stripe payment gateway, memastikan setiap transaksi dilakukan dengan aman. Setelah pembayaran berhasil, pesanan akan tercatat dan diproses.
 
