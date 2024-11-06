@@ -2,6 +2,8 @@
 
 # Poster
 
+![Instagram post - 1 (1)](https://github.com/user-attachments/assets/c110371d-76f1-49a2-adcb-40c1921079b7)
+
 # Deskripsi Aplikasi UnesaShoes
 
 UnesaShoes adalah aplikasi belanja online yang dirancang untuk mempermudah pengguna dalam mencari dan membeli produk sepatu berkualitas dengan pengalaman belanja yang cepat dan nyaman. Aplikasi ini dilengkapi dengan fitur login fleksibel, pengelolaan keranjang belanja, pembayaran aman, serta profil yang dapat diedit oleh pengguna.
