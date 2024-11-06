@@ -2,7 +2,7 @@
 
 # Poster
 
-![Instagram post - 1 (1)](https://github.com/user-attachments/assets/c110371d-76f1-49a2-adcb-40c1921079b7)
+![store](https://github.com/user-attachments/assets/78485a39-ad3b-4e8b-bdd1-62c5cbd20a36)
 
 # Deskripsi Aplikasi UnesaShoes
 
