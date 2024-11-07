@@ -16,7 +16,7 @@ import 'package:sepatu_client/pages/login_page.dart';
 void main () async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: firebaseOptions);
-  Stripe.publishableKey = 'pk_test_51QDlWEHfM8wNsFWfv3MeTbc8UUByzDFfPNZl1mG0QjUEXObeuFoWOlXiN4hoviJzuYwUy0kLLNZjmznUSsVt8xdJ00XX2oqKx3';
+  Stripe.publishableKey = '';
   Get.put(LoginController());
   Get.put(RegisterCtrl());
   Get.put(HomeController());
